@@ -4,7 +4,7 @@ Official Implementation of "Unlearning’s Blind Spots: Over‑Unlearning and Pr
 
 
 <p align="center">
-  <img src="https://github.com/Seung-B/FL-OpenPSG/assets/14955366/cdc892e9-9c9c-451c-a86f-53af9a8f81af" align="center" width="95%">
+  <!--img src="https://github.com/Seung-B/FL-OpenPSG/assets/14955366/cdc892e9-9c9c-451c-a86f-53af9a8f81af" align="center" width="95%"-->
 
   <p align="center">
   <a href="https://arxiv.org/abs/" target='_blank'>
