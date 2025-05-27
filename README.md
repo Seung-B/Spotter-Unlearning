@@ -11,6 +11,7 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
     <img src="https://img.shields.io/badge/Paper-arXiv%2024-b31b1b?style=flat-square">
   <a href="https://neurips.cc/Conferences/2025" target='_blank'>
     <img src="https://img.shields.io/badge/Venue-Under Review-1b1bb3?style=flat-square">
+  [![GitHub stars](https://img.shields.io/github/stars/OPTML-Group/Unlearn-Saliency)](https://github.com/OPTML-Group/Unlearn-Saliency)
   </a>
 
 
