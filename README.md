@@ -13,10 +13,6 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
     <img src="https://img.shields.io/badge/Venue-Under Review-1b1bb3?style=flat-square">
   </a>
 
-<div align='center'>
-[![GitHub stars](https://img.shields.io/github/stars/Seung-B/Spotter-Unlearning)](https://github.com/Seung-B/Spotter-Unlearning)
-</div>
-
 </p>
 
 
@@ -31,4 +27,4 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
   </p>
 </p>
 
-## Environment Setting
+## News
