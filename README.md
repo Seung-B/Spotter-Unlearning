@@ -32,8 +32,12 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
 
 
 ## Abstract
-
-
+Machine unlearning (MU) aims to expunge a designated forget set from a trained model without costly retraining, yet the existing techniques overlook two critical blind spots: “over‑unlearning’’ that deteriorates retained data near the forget set, and post‑hoc “relearning” attacks that aim to resurrect the forgotten knowledge.
+We first derive the over-unlearning metric $\text{OU}@\varepsilon$, which represents the collateral damage to the nearby region of the forget set, where the over-unlearning mainly appears.
+Next, we expose an unforeseen relearning threat on MU, i.e., the Prototypical Relearning Attack, which exploits the per-class prototype of the forget class with just a few samples, and easily restores the pre-unlearning performance.
+To counter both blind spots, we introduce $\texttt{Spotter}$, a plug‑and‑play objective that combines (i) a masked knowledge‑distillation penalty on the nearby region of forget set to suppress $\text{OU}@\varepsilon$, and (ii) an intra‑class dispersion loss that scatters forget-class embeddings, neutralizing prototypical relearning attacks.
+On CIFAR-10, as one of validations, $\texttt{Spotter}$ reduces $\text{OU}@\varepsilon$ by below the 0.05$\times$ of the baseline, drives forget accuracy to 0\%, preserves accuracy of the retain set within 1\% of difference with the original, and denies the prototype‑attack by keeping the forget set accuracy within <1\%, without accessing retained data.
+It confirms that \spt\ is a practical remedy of the unlearning’s blind spots.
 
 ## Settings
 
