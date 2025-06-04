@@ -15,7 +15,7 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
 
 
   <p align="center">
-  <font size=5><strong>Benchmarking Federated Learning for Semantic Datasets: Federated Scene Graph Generation</strong></font>
+  <font size=5><strong>Unlearning’s Blind Spots: Over‑Unlearning and Prototypical Relearning Attack</strong></font>
     <br>
       <a href="https://github.com/Seung-B" target='_blank'>SeungBum Ha</a>,&nbsp;
       <a href="https://srompark.github.io/" target='_blank'>Saerom Park</a>,&nbsp;
