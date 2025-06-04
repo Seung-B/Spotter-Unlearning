@@ -7,7 +7,7 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
   <!--img src="https://github.com/Seung-B/FL-OpenPSG/assets/14955366/cdc892e9-9c9c-451c-a86f-53af9a8f81af" align="center" width="95%"-->
 
   <p align="center">
-  <a href="https://arxiv.org/abs/" target='_blank'>
+  <a href="https://arxiv.org/pdf/2506.01318" target='_blank'>
     <img src="https://img.shields.io/badge/Paper-arXiv%2025-b31b1b?style=flat-square">
   </a>
 
@@ -42,3 +42,11 @@ It confirms that $\texttt{Spotter}$ is a practical remedy of the unlearning’s 
 
 
 ## Citation
+```
+@article{ha2025_2506.01318,
+  title={ Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack },
+  author={ SeungBum Ha and Saerom Park and Sung Whan Yoon },
+  journal={arXiv preprint arXiv:2506.01318},
+  year={ 2025 }
+}
+```
