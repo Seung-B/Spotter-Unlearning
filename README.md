@@ -8,7 +8,7 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
 
   <p align="center">
   <a href="https://arxiv.org/pdf/2506.01318" target='_blank'>
-    <img src="https://img.shields.io/badge/Paper-arXiv%2025-b31b1b?style=flat-square">
+    <img src="https://img.shields.io/badge/Paper-ICML%2026-b31b1b?style=flat-square">
   </a>
 
 </p>
