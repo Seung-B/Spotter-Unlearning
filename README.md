@@ -48,6 +48,11 @@ It confirms that $\texttt{Spotter}$ is a practical remedy of the unlearning’s 
 ## Settings
 
 
+## Over-Unlearning Metric ($OU@\varepsilon$)
+
+## Prototypical Relearning Attack (PRA)
+
+## Spotter
 
 ## Citation
 ```
