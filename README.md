@@ -1,6 +1,7 @@
 # Spotter: An Unlearning Framework Against Over-Unlearning and Prototypical Relearning Attacks
+<p align="center">
 Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and Prototypical Relearning Attack**"
-
+</p>
 
 
 <p align="center">
@@ -13,7 +14,7 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
 
 </p>
 
-
+<img width="1459" height="647" alt="image" src="https://github.com/user-attachments/assets/a20ea01c-2741-4c10-a11d-8266bcc1297d" />
   <p align="center">
   <font size=5><strong>Unlearning’s Blind Spots: Over‑Unlearning and Prototypical Relearning Attack</strong></font>
     <br>
