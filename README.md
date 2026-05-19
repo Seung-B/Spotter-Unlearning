@@ -26,7 +26,8 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
 </p>
 
 ## News
-
+- 🎉 **[2026.05]** Our paper **"Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack"** has been **accepted to ICML 2026**.
+- 📄 The camera-ready version and updated codebase will be released soon.
 
 
 ## Abstract
@@ -43,10 +44,10 @@ It confirms that $\texttt{Spotter}$ is a practical remedy of the unlearning’s 
 
 ## Citation
 ```
-@article{ha2025_2506.01318,
-  title={ Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack },
-  author={ SeungBum Ha and Saerom Park and Sung Whan Yoon },
+@article{ha2025unlearning,
+  title={Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack},
+  author={Ha, SeungBum and Park, Saerom and Yoon, Sung Whan},
   journal={arXiv preprint arXiv:2506.01318},
-  year={ 2025 }
+  year={2025}
 }
 ```
