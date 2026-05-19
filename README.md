@@ -14,8 +14,10 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
   <a href="https://icml.cc/virtual/2026/poster/63385" target="_blank">
     <img src="https://img.shields.io/badge/Virtual%20Poster-ICML-4C8EDA?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/stars/USER/REPO?style=social">
-
+  <a href="LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
+  </a>
+  <img src="https://img.shields.io/github/stars/Seung-B/Spotter-Unlearning?style=social">
 </p>
 
 <img width="1459" height="647" alt="image" src="https://github.com/user-attachments/assets/a20ea01c-2741-4c10-a11d-8266bcc1297d" />
