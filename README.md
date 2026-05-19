@@ -8,8 +8,11 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
   <!--img src="https://github.com/Seung-B/FL-OpenPSG/assets/14955366/cdc892e9-9c9c-451c-a86f-53af9a8f81af" align="center" width="95%"-->
 
   <p align="center">
-  <a href="https://arxiv.org/pdf/2506.01318" target='_blank'>
-    <img src="https://img.shields.io/badge/Paper-ICML%2026-b31b1b?style=flat-square">
+  <a href="https://arxiv.org/pdf/2506.01318" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-ICML%202026-b31b1b?style=flat-square">
+  </a>
+  <a href="https://icml.cc/virtual/2026/poster/63385" target="_blank">
+    <img src="https://img.shields.io/badge/Virtual%20Poster-ICML-4C8EDA?style=flat-square">
   </a>
 
 </p>
