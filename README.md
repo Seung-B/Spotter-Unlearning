@@ -21,7 +21,7 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
   <p align="center">
   <font size=5><strong>Unlearning’s Blind Spots: Over‑Unlearning and Prototypical Relearning Attack</strong></font>
     <br>
-      <a href="https://github.com/Seung-B" target='_blank'>SeungBum Ha</a>,&nbsp;
+      <a href="https://seung-b.github.io" target='_blank'>SeungBum Ha</a>,&nbsp;
       <a href="https://srompark.github.io/" target='_blank'>Saerom Park</a>,&nbsp;
       <a href="https://sites.google.com/view/swyoon89" target='_blank'>Sung Whan Yoon</a>
     <br>
