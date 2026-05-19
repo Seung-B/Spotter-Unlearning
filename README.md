@@ -14,6 +14,7 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
   <a href="https://icml.cc/virtual/2026/poster/63385" target="_blank">
     <img src="https://img.shields.io/badge/Virtual%20Poster-ICML-4C8EDA?style=flat-square">
   </a>
+  <img src="https://img.shields.io/badge/Citations-Google%20Scholar-blue?style=flat-square">
 
 </p>
 
