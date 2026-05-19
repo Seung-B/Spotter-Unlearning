@@ -26,8 +26,8 @@ Official Implementation of "**Unlearning’s Blind Spots: Over‑Unlearning and 
 </p>
 
 ## News
-- 🎉 **[2026.05]** Our paper **"Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack"** has been **accepted to ICML 2026**.
-- 📄 The camera-ready version and updated codebase will be released soon.
+- **2026/05:** 🎉 Our paper *"Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack"* was accepted to **ICML 2026**.
+- **2025/06:** arXiv version released.
 
 
 ## Abstract
