@@ -56,10 +56,18 @@ It confirms that $\texttt{Spotter}$ is a practical remedy of the unlearning’s 
 
 ## Citation
 ```
-@article{ha2025unlearning,
-  title={Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack},
-  author={Ha, SeungBum and Park, Saerom and Yoon, Sung Whan},
-  journal={arXiv preprint arXiv:2506.01318},
-  year={2025}
+@InProceedings{pmlr-v306-ha26b,
+  title = 	 {Unlearning’s Blind Spots: {O}ver-{U}nlearning and Prototypical Relearning Attack},
+  author =       {Ha, Seungbum and Park, Saerom and Yoon, Sung Whan},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = 	 {39108--39126},
+  year = 	 {2026},
+  editor = 	 {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},
+  volume = 	 {306},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v306/main/assets/ha26b/ha26b.pdf},
+  url = 	 {https://proceedings.mlr.press/v306/ha26b.html}
 }
 ```
